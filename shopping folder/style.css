@@ -1,0 +1,15 @@
+body{
+  background-color:grey;
+  opacity: inherit;
+}
+h1{
+font-size:50px;
+font-family:arial;
+}
+my-button {
+  padding: 50px;
+  background-color: blue;
+  border-radius: 20px;
+  border-color: black;
+
+}
